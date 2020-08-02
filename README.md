@@ -27,6 +27,12 @@
 - [Guía de supervivencia en cualquier Congreso Tecnológico](https://gatsby-starter-blog-demo.netlify.app/guia-supervivencia-congreso-tecnologico/)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+<img align="left" alt="mariogiron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariogiron&show_icons=true&hide_border=true" />
+
+---
+
 ### Contacta conmigo:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
