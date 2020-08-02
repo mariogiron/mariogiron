@@ -11,6 +11,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [Monográfico de Angular 10 con Strapi JS  - Clase 1 - Modelos y Componentes](https://www.youtube.com/watch?v=g2skV_hXCyA)
+- [Introducción a VueJS. Acciones básicas sobre un API en NodeJS](https://www.youtube.com/watch?v=AfeK3BIH2bI)
+- [Cómo subir imágenes a tu servidor ExpressJS con Multer](https://www.youtube.com/watch?v=5POGSqlnvqY)
+- [Web Scraping. Recupera información de la página de Amazon con Puppeteer](https://www.youtube.com/watch?v=GPktgPJE4VU)
+- [[Rompeteclas I] La formación como desarrollador](https://www.youtube.com/watch?v=pNQGLWu6tyI)
 <!-- YOUTUBE:END -->
 
 ### Contacta conmigo:
