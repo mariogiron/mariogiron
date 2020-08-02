@@ -29,11 +29,9 @@
 
 ---
 
-<img align="left" alt="mariogiron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariogiron&show_icons=true&hide_border=true" />
+<img alt="mariogiron's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mariogiron&show_icons=true&hide_border=true" />
 
 ---
-
-<br />
 
 ### Contacta conmigo:
 
