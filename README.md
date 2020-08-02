@@ -13,6 +13,10 @@
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
 
+## 📝 Últimas entradas de mi blog
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Contacta conmigo:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
