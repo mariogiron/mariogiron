@@ -11,11 +11,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [Google Maps con Angular 10 🌍](https://www.youtube.com/watch?v=DQZTeZZXYBk)
 - [The Game of Life 💀  (John Conway) - Angular 10](https://www.youtube.com/watch?v=1QjWKuyk8pI)
 - [Monográfico de Angular 10 con Strapi JS  - Clase 2 - Servicios y Http](https://www.youtube.com/watch?v=obkJuzMDBOk)
 - [Monográfico de Angular 10 con Strapi JS  - Clase 1 - Modelos y Componentes](https://www.youtube.com/watch?v=g2skV_hXCyA)
 - [Introducción a VueJS. Acciones básicas sobre un API en NodeJS](https://www.youtube.com/watch?v=AfeK3BIH2bI)
-- [Subida de Imagenes en Nodejs con Multer 🔝](https://www.youtube.com/watch?v=5POGSqlnvqY)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
