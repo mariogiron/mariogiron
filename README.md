@@ -24,7 +24,7 @@
 - [¿Qué encuentra un desarrollador junior en el mercado laboral?](https://mariogiron.com/que-encuentra-un-desarrollador-junior-en-el-marcado-laboral/)
 - [¿Por qué aprender a programar con el Stack MEAN?](https://mariogiron.com/aprender-programar-con-mean/)
 - [Claves del desarrollador Full Stack](https://mariogiron.com/claves-desarrollador-full-stack/)
-- [Guía para crear tu primer Podcast](https://mariogiron.com/guia-crea-tu-primer-podcast-reload/)
+- [Cómo aprender Javascript en 12 semanas](https://mariogiron.com/como-aprender-javascript-12-semanas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
