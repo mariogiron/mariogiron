@@ -20,11 +20,11 @@
 
 ## 📝 Últimas entradas de mi blog
 <!-- BLOG-POST-LIST:START -->
+- [El abc del desarrollador Full Stack](https://gatsby-starter-blog-demo.netlify.app/el-abc-del-desarrollaor-full-stack/)
+- [¿Qué encuentra un desarrollador junior en el mercado laboral?](https://gatsby-starter-blog-demo.netlify.app/que-encuentra-un-desarrollador-junior-en-el-marcado-laboral/)
 - [¿Por qué aprender a programar con el Stack MEAN?](https://gatsby-starter-blog-demo.netlify.app/aprender-programar-con-mean/)
 - [Claves del desarrollador Full Stack](https://gatsby-starter-blog-demo.netlify.app/claves-desarrollador-full-stack/)
 - [Cómo aprender Javascript en 12 semanas](https://gatsby-starter-blog-demo.netlify.app/como-aprender-javascript-12-semanas/)
-- [Guía para crear tu primer podcast](https://gatsby-starter-blog-demo.netlify.app/guia-crea-tu-primer-podcast/)
-- [Guía de supervivencia en cualquier Congreso Tecnológico](https://gatsby-starter-blog-demo.netlify.app/guia-supervivencia-congreso-tecnologico/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
