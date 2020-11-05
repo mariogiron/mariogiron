@@ -20,11 +20,11 @@
 
 ## 📝 Últimas entradas de mi blog
 <!-- BLOG-POST-LIST:START -->
-- [El abc del desarrollador Full Stack](https://gatsby-starter-blog-demo.netlify.app/el-abc-del-desarrollaor-full-stack/)
-- [¿Qué encuentra un desarrollador junior en el mercado laboral?](https://gatsby-starter-blog-demo.netlify.app/que-encuentra-un-desarrollador-junior-en-el-marcado-laboral/)
-- [¿Por qué aprender a programar con el Stack MEAN?](https://gatsby-starter-blog-demo.netlify.app/aprender-programar-con-mean/)
-- [Claves del desarrollador Full Stack](https://gatsby-starter-blog-demo.netlify.app/claves-desarrollador-full-stack/)
-- [Cómo aprender Javascript en 12 semanas](https://gatsby-starter-blog-demo.netlify.app/como-aprender-javascript-12-semanas/)
+- [El abc del desarrollador Full Stack](https://mariogiron.com/el-abc-del-desarrollaor-full-stack/)
+- [¿Qué encuentra un desarrollador junior en el mercado laboral?](https://mariogiron.com/que-encuentra-un-desarrollador-junior-en-el-marcado-laboral/)
+- [¿Por qué aprender a programar con el Stack MEAN?](https://mariogiron.com/aprender-programar-con-mean/)
+- [Claves del desarrollador Full Stack](https://mariogiron.com/claves-desarrollador-full-stack/)
+- [Guía para crear tu primer Podcast](https://mariogiron.com/guia-crea-tu-primer-podcast-reload/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
