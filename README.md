@@ -20,11 +20,11 @@
 
 ## 📝 Últimas entradas de mi blog
 <!-- BLOG-POST-LIST:START -->
-- [El abc del desarrollador Full Stack](https://mariogiron.com/el-abc-del-desarrollaor-full-stack/)
-- [¿Qué encuentra un desarrollador junior en el mercado laboral?](https://mariogiron.com/que-encuentra-un-desarrollador-junior-en-el-marcado-laboral/)
-- [¿Por qué aprender a programar con el Stack MEAN?](https://mariogiron.com/aprender-programar-con-mean/)
-- [Claves del desarrollador Full Stack](https://mariogiron.com/claves-desarrollador-full-stack/)
-- [Cómo aprender Javascript en 12 semanas](https://mariogiron.com/como-aprender-javascript-12-semanas/)
+- [El abc del desarrollador Full Stack](https://mariogiron.com/11-el-abc-del-desarrollador-full-stack/)
+- [¿Qué encuentra un desarrollador junior en el mercado laboral?](https://mariogiron.com/10-que-encuentra-un-desarrollador-junior-en-el-marcado-laboral/)
+- [¿Por qué aprender a programar con el Stack MEAN?](https://mariogiron.com/9-aprender-programar-con-mean/)
+- [Claves del desarrollador Full Stack](https://mariogiron.com/8-claves-desarrollador-full-stack/)
+- [Cómo aprender Javascript en 12 semanas](https://mariogiron.com/7-como-aprender-javascript-12-semanas/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
