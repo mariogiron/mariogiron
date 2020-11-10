@@ -11,11 +11,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [Monográfico de Angular 10 con Strapi JS  - Clase 4 - Directivas](https://www.youtube.com/watch?v=0Bq3yjx-q4E)
 - [Introducción a Typescript II: Interfaces](https://www.youtube.com/watch?v=njmJGHtM2TE)
 - [Introducción a Typescript: Tipado](https://www.youtube.com/watch?v=6es0xOEkI3o)
 - [Monográfico de Angular 10 con Strapi JS  - Clase 3 - Routing](https://www.youtube.com/watch?v=a4LuKSWXIDk)
 - [Google Maps con Angular 10 🌍](https://www.youtube.com/watch?v=DQZTeZZXYBk)
-- [The Game of Life 💀  (John Conway) - Angular 10](https://www.youtube.com/watch?v=1QjWKuyk8pI)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
