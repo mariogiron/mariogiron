@@ -11,11 +11,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [Uso de Observables en Angular](https://www.youtube.com/watch?v=ct6q_ao2q58)
 - [Conecta tu aplicación Angular con Stripe 💰](https://www.youtube.com/watch?v=qT-VTo001OU)
 - [Monográfico de Angular 10 con Strapi JS  - Clase 4 - Directivas](https://www.youtube.com/watch?v=0Bq3yjx-q4E)
 - [Introducción a Typescript II: Interfaces](https://www.youtube.com/watch?v=njmJGHtM2TE)
 - [Introducción a Typescript: Tipado](https://www.youtube.com/watch?v=6es0xOEkI3o)
-- [Monográfico de Angular 10 con Strapi JS  - Clase 3 - Routing](https://www.youtube.com/watch?v=a4LuKSWXIDk)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
