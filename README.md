@@ -11,11 +11,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [Tutorial useRef desde cero - React Hooks](https://www.youtube.com/watch?v=KzOxmCg8X3k)
 - [Tutorial useContext desde cero - React Hooks](https://www.youtube.com/watch?v=J-sphMQwZHA)
 - [Tutorial useEffect desde cero - React Hooks](https://www.youtube.com/watch?v=TlNMvL53tT0)
 - [Tutorial useState desde cero - React Hooks](https://www.youtube.com/watch?v=Se97ROC6ZaQ)
 - [Uso de Observables en Angular](https://www.youtube.com/watch?v=ct6q_ao2q58)
-- [Conecta tu aplicación Angular con Stripe 💰](https://www.youtube.com/watch?v=qT-VTo001OU)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
