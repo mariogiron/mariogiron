@@ -11,11 +11,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [Tutorial useReducer desde cero - React Hooks](https://www.youtube.com/watch?v=0xgErk7grSM)
 - [Tutorial useCallback desde cero - React Hooks](https://www.youtube.com/watch?v=6ruYpcCSMOg)
 - [Tutorial useRef desde cero - React Hooks](https://www.youtube.com/watch?v=KzOxmCg8X3k)
 - [Tutorial useContext desde cero - React Hooks](https://www.youtube.com/watch?v=J-sphMQwZHA)
 - [Tutorial useEffect desde cero - React Hooks](https://www.youtube.com/watch?v=TlNMvL53tT0)
-- [Tutorial useState desde cero - React Hooks](https://www.youtube.com/watch?v=Se97ROC6ZaQ)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
