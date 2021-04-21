@@ -11,11 +11,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [[Twitch] 20 Abril de 2021 - Programando un bot para el canal de Twitch](https://www.youtube.com/watch?v=xXXI6Umycsk)
 - [Tutorial useReducer desde cero - React Hooks](https://www.youtube.com/watch?v=0xgErk7grSM)
 - [Tutorial useCallback desde cero - React Hooks](https://www.youtube.com/watch?v=6ruYpcCSMOg)
 - [Tutorial useRef desde cero - React Hooks](https://www.youtube.com/watch?v=KzOxmCg8X3k)
 - [Tutorial useContext desde cero - React Hooks](https://www.youtube.com/watch?v=J-sphMQwZHA)
-- [Tutorial useEffect desde cero - React Hooks](https://www.youtube.com/watch?v=TlNMvL53tT0)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
