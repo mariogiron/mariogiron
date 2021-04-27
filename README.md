@@ -11,11 +11,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [[Twitch] 27 Abril de 2021 - Bot para el canal. Probando LOWDB](https://www.youtube.com/watch?v=z9AaTWB2kgg)
 - [Tutorial React. Manejando el estado con useContext y useReducer. ¡Ya no necesitamos Redux!](https://www.youtube.com/watch?v=j2-X0Pck9jk)
 - [[Twitch] 20 Abril de 2021 - Programando un bot para el canal de Twitch](https://www.youtube.com/watch?v=xXXI6Umycsk)
 - [Tutorial useReducer desde cero - React Hooks](https://www.youtube.com/watch?v=0xgErk7grSM)
 - [Tutorial useCallback desde cero - React Hooks](https://www.youtube.com/watch?v=6ruYpcCSMOg)
-- [Tutorial useRef desde cero - React Hooks](https://www.youtube.com/watch?v=KzOxmCg8X3k)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
