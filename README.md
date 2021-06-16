@@ -11,11 +11,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [[Curso React Gratis] #004 - Bucles y Condicionales](https://www.youtube.com/watch?v=VSE6Ui1u78k)
 - [[Curso React Gratis] #003 - Componentes funcionales](https://www.youtube.com/watch?v=z8CppDFH9Uw)
 - [[Curso React Gratis] #002 - Componentes de clase](https://www.youtube.com/watch?v=XWgZiEKllQQ)
 - [[Curso React Gratis] #001- Introducción a React. Aprende JSX](https://www.youtube.com/watch?v=4IyWpYQKBn4)
 - [[Twitch] 4 de Mayo de 2021 - Crea tu primera aplicación con ReactJS](https://www.youtube.com/watch?v=W09LyQ2973g)
-- [[Twitch] 27 Abril de 2021 - Bot para el canal. Probando LOWDB](https://www.youtube.com/watch?v=z9AaTWB2kgg)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
