@@ -1,3 +1,5 @@
+![Banner](./images/banner.gif)
+
 ### Hola, soy [Mario][website] -> Profesor y desarrollador senior con expectativas de dominación mundial 👋
 
 ## Actualmente me puedes encontrar:
