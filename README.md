@@ -1,7 +1,7 @@
 ### Hola, soy [Mario][website] -> Profesor y desarrollador senior con expectativas de dominación mundial 👋
 
 ## Actualmente me puedes encontrar:
-- 👨‍🏫 Head Teacher Bootcamp "Full Stack" en [ID BOotcamps][idbootcamps]
+- 👨‍🏫 Head Teacher Bootcamp "Full Stack" en [ID Bootcamps][idbootcamps]
 - 👨‍💻 Profesor en [AEPI][aepi] (Asociación española de programadores informáticos):
     - Máster profesional de diseño, maquetación web y JQuery [link](https://asociacionaepi.es/curso-profesional-diseno-web/)
     - Curso profesional de Javascript, Ajax, Json y JQuery [link](https://asociacionaepi.es/curso-de-javascript-ajax-json-jquery)
