@@ -13,11 +13,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [[CursoReact.es] #009 - Integración de Firebase](https://www.youtube.com/watch?v=UtOA7FulxvU)
 - [[Curso React Gratis] #008 - Uso de la librería Styled Components](https://www.youtube.com/watch?v=-mS5YEQO2AQ)
 - [[Curso React Gratis] #007 - Estilos dinámicos](https://www.youtube.com/watch?v=NnGkG2t6-5I)
 - [[Curso React Gratis] #006 - Redux dentro de una aplicación con React](https://www.youtube.com/watch?v=ZTNu8GFjRO4)
 - [[Mesa Redonda] Mi vida después de un bootcamp](https://www.youtube.com/watch?v=_7x9HG62HRY)
-- [[Curso React Gratis] #005 - Proyecto resumen](https://www.youtube.com/watch?v=27Tnnjhw84k)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
