@@ -13,11 +13,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [DeCeroAProgramador #01 - Arrancando motores](https://www.youtube.com/watch?v=hkRHHlJc0CM)
 - [[Curso React Gratis] #011 - Formularios con Formik](https://www.youtube.com/watch?v=bdnrN_WtHfM)
 - [[Curso React Gratis] #010 - Peticiones HTTP con Axios](https://www.youtube.com/watch?v=KDggIH-lgeU)
 - [[CursoReact.es] #009 - Integración de Firebase](https://www.youtube.com/watch?v=UtOA7FulxvU)
 - [[Curso React Gratis] #008 - Uso de la librería Styled Components](https://www.youtube.com/watch?v=-mS5YEQO2AQ)
-- [[Curso React Gratis] #007 - Estilos dinámicos](https://www.youtube.com/watch?v=NnGkG2t6-5I)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
