@@ -13,7 +13,7 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
-- [DeCeroAProgramador. Clase #02 - Las variables](https://www.youtube.com/watch?v=9I2XAvT9nsE)
+- [DeCeroAProgramador #02 - Las variables](https://www.youtube.com/watch?v=9I2XAvT9nsE)
 - [DeCeroAProgramador #01 - Arrancando motores](https://www.youtube.com/watch?v=hkRHHlJc0CM)
 - [[Curso React Gratis] #011 - Formularios con Formik](https://www.youtube.com/watch?v=bdnrN_WtHfM)
 - [[Curso React Gratis] #010 - Peticiones HTTP con Axios](https://www.youtube.com/watch?v=KDggIH-lgeU)
