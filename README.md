@@ -13,11 +13,11 @@
 
 ## 📺 Últimos vídeos de ["10 Minutos Programando"][youtube]
 <!-- YOUTUBE:START -->
+- [DeCeroAProgramador. #06 - Arrays](https://www.youtube.com/watch?v=RUE2NnAD7Cg)
 - [DeCeroAProgramador #05 - Uso de funciones](https://www.youtube.com/watch?v=FdEPyg7Xwgk)
 - [DeCeroAProgramador #04 - Bucles](https://www.youtube.com/watch?v=iqW72SM7UwE)
 - [DeCeroAProgramador #03 - Condicionales](https://www.youtube.com/watch?v=KS69b8WfLH0)
 - [DeCeroAProgramador #02 - Las variables](https://www.youtube.com/watch?v=9I2XAvT9nsE)
-- [DeCeroAProgramador #01 - Arrancando motores](https://www.youtube.com/watch?v=hkRHHlJc0CM)
 <!-- YOUTUBE:END -->
 
 ## 📝 Últimas entradas de mi blog
